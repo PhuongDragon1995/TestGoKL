@@ -1,0 +1,7 @@
+C:\Users\Drake\source\repos\TestForGoKL\TestForGoKL\bin\Debug\TestForGoKL.exe.config
+C:\Users\Drake\source\repos\TestForGoKL\TestForGoKL\bin\Debug\TestForGoKL.exe
+C:\Users\Drake\source\repos\TestForGoKL\TestForGoKL\bin\Debug\TestForGoKL.pdb
+C:\Users\Drake\source\repos\TestForGoKL\TestForGoKL\obj\Debug\TestForGoKL.csprojAssemblyReference.cache
+C:\Users\Drake\source\repos\TestForGoKL\TestForGoKL\obj\Debug\TestForGoKL.csproj.CoreCompileInputs.cache
+C:\Users\Drake\source\repos\TestForGoKL\TestForGoKL\obj\Debug\TestForGoKL.exe
+C:\Users\Drake\source\repos\TestForGoKL\TestForGoKL\obj\Debug\TestForGoKL.pdb
